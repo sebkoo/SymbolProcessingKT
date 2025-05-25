@@ -3,3 +3,4 @@ plugins {
 }
 rootProject.name = "SymbolProcessingKT"
 include("builder-lib-annotations")
+include("builder-lib-impl")
